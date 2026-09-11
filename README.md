@@ -16,7 +16,6 @@ This project explores predictive maintenance by using machine operating conditio
 - **Features:** Air temperature, process temperature, rotational speed, torque, tool wear, and product quality/type fields
 - **Additional failure labels:** TWF, HDF, PWF, OSF, and RNF
 
-Place the downloaded dataset in the data directory described below.
 
 ## Objectives
 
