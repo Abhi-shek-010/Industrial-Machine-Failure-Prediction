@@ -34,7 +34,7 @@ This project explores predictive maintenance by using machine operating conditio
 5. Apply preprocessing and address class imbalance where appropriate.
 6. Train baseline and candidate classification models.
 7. Evaluate predictions using precision, recall, F1-score, ROC-AUC, PR-AUC, and a confusion matrix.
-8. Compare models and document findings.
+8. Compare models and documents findings.
 
 ## Project Structure
 
